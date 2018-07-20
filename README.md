@@ -8,3 +8,6 @@
 [Anaconda 4.3 安装R报错(error while loading shared libraries: libbz2.so.1.0: cannot open shared object file: No such file or directory)的解决方法](https://github.com/RuiqiaoHe/blog/issues/2)
 
 [无GUI终端matplotlib(qiime)等软件画图报错cannot connect to X server localhost:0.0](https://github.com/RuiqiaoHe/blog/issues/3)
+
+##2018/07  
+[QIIME指定临时文件夹](https://github.com/RuiqiaoHe/blog/issues/4)
