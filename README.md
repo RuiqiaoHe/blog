@@ -11,3 +11,6 @@
 
 ##2018/07  
 [QIIME指定临时文件夹](https://github.com/RuiqiaoHe/blog/issues/4)
+
+##2018/08  
+[Jupyter 同时支持python2和3](https://github.com/RuiqiaoHe/blog/issues/5)  
