@@ -14,3 +14,5 @@
 
 ##2018/08  
 [Jupyter 同时支持python2和3](https://github.com/RuiqiaoHe/blog/issues/5)  
+
+[SOLAR踩坑指南](https://github.com/RuiqiaoHe/blog/issues/6)  
