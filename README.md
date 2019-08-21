@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="K6TgbvBW1ZzY_EN_HPyS5BPHoJsFHZNCF7LPmbgAIns" />
+
 欢迎大家来到我的博客，下面为文章目录，右转Issues亦可。喜欢的可以Star订阅哦！
 
 ##2018/02  
