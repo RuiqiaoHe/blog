@@ -1,2 +1,22 @@
+title: InformaticsBio^_^o~
+author: Richard
+email: RuiqiaoHe@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Life is fantastic.
+show_excerpts: false # set to true to show excerpts on the homepage
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
 theme: minima
 #jekyll-theme-minimal
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
