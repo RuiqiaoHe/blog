@@ -1,3 +1,2 @@
-<h2>InformaticsBio^_^o~</h2>
 
-欢迎来到我的博客，下面为文章目录:
+欢迎来到我的[博客](https://ruiqiaohe.github.io/blog/)，致力于运用计算方法分析解决生物问题!
