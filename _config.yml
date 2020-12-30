@@ -17,7 +17,7 @@ header_pages:
 theme: minima
 #jekyll-theme-minimal
 
-url: "https://ruiqiaohe.github.io/blog/" # the base hostname & protocol for your site
+#url: "https://ruiqiaohe.github.io/blog/" # the base hostname & protocol for your site
 
 plugins:
  - jekyll-feed
