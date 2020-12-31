@@ -1,9 +1,11 @@
 title: InformaticsBio^_^o~
 author: Richard
 
-description: > # this means to ignore newlines until "show_excerpts:"
-  Fate is wonderful.
+description: #>  this means to ignore newlines until "show_excerpts:"
+  Fate is wonderful!  
+  计算方法分析解决生物问题!
 show_excerpts: false # set to true to show excerpts on the homepage
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -17,7 +19,7 @@ header_pages:
 theme: minima
 #jekyll-theme-minimal
 
-url: "https://ruiqiaohe.github.io/blog/" # the base hostname & protocol for your site
+#url: "https://ruiqiaohe.github.io/blog/" # the base hostname & protocol for your site
 
 plugins:
  - jekyll-feed
