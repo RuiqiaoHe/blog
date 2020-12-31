@@ -1,8 +1,7 @@
 title: InformaticsBio^_^o~
 author: Richard
 
-description: #>  this means to ignore newlines until "show_excerpts:"
-  Fate is wonderful!  \n
+description: > #  this means to ignore newlines until "show_excerpts:"
   计算方法分析解决生物问题!
 show_excerpts: false # set to true to show excerpts on the homepage
 
